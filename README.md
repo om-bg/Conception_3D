@@ -15,3 +15,18 @@ Conception et optimisation d'un bras robotique articulé utilisant Altair Inspir
 - Partie 1:
 
   ![](images/partie1.png)
+
+- Partie 2:
+
+  ![](images/partie2.png)
+
+- Partie 3:
+
+  ![](images/partie3.png)
+
+- Partie 4:
+
+  ![](images/partie4.png)
+
+
+
